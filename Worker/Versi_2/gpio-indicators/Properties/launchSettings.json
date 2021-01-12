@@ -1,0 +1,10 @@
+﻿{
+  "profiles": {
+    "gpio_indicators": {
+      "commandName": "Project",
+      "environmentVariables": {
+        "DOTNET_ENVIRONMENT": "Development"
+      }
+    }
+  }
+}
